@@ -1,0 +1,15 @@
+{
+  "name": "react-es6",
+  "version": "0.0.0",
+  "authors": [
+    "Shaopeng Zhang <szhang351@bloomberg.net>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

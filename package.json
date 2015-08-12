@@ -1,0 +1,23 @@
+{
+  "name": "react-avro-es6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-babel": "^5.1.0",
+    "gulp-concat": "^2.5.2",
+    "gulp-rimraf": "^0.1.1",
+    "gulp-sourcemaps": "^1.5.2"
+  },
+  "dependencies": {
+    "dottie": "^0.3.1",
+    "dotty": "0.0.2",
+    "string": "^3.2.0"
+  }
+}
